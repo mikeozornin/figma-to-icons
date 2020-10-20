@@ -1,0 +1,26 @@
+{
+  "name": "mikeozornin-some-icons",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com:mikeozornin/some-icons.git"
+  },
+  "publishConfig": {
+    "registry": ""
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "export-icons": "export-icons"
+  },
+  "author": "Mike Ozornin",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "1.1.0",
+    "grunt-shell": "^3.0.1",
+    "grunt-webfont": "1.7.2",
+    "grunt-text-replace": "^0.4.0",
+    "figma-export-icons": "^1.1.0",
+    "grunt-svg-sprite": "^1.5.0"
+  }
+}
