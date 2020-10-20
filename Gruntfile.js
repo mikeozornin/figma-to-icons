@@ -1,6 +1,12 @@
 var FONT_VERSION = '1.0.0';
 
 var CODEPOINTS = {
+  'bell-dot-o_16'         : 0xF501,
+  'bell-o_16'             : 0xF502,
+  'bell-off-o_16'         : 0xF503,
+  'bell_32'               : 0xF504,
+  'bento_16'              : 0xF505,
+  'upload-to-cloud_64'    : 0xF506,
 };
 
 var path = require('path');
